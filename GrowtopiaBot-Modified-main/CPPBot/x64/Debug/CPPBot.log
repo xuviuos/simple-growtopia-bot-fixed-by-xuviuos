@@ -1,0 +1,25 @@
+﻿  CPPBot.cpp
+C:\Users\tatown\Desktop\GrowtopiaBot-Modified-main\CPPBot\proton\variant.hpp(322,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tatown\Desktop\GrowtopiaBot-Modified-main\CPPBot\proton\variant.hpp(339,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tatown\Desktop\GrowtopiaBot-Modified-main\CPPBot\proton\variant.hpp(355,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\tatown\Desktop\GrowtopiaBot-Modified-main\CPPBot\corefunc.h(306,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tatown\Desktop\GrowtopiaBot-Modified-main\CPPBot\corefunc.h(307,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tatown\Desktop\GrowtopiaBot-Modified-main\CPPBot\corefunc.h(943,21): warning C4101: 'e': unreferenced local variable
+C:\Users\tatown\Desktop\GrowtopiaBot-Modified-main\CPPBot\corefunc.h(991,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\tatown\Desktop\GrowtopiaBot-Modified-main\CPPBot\corefunc.h(992,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\tatown\Desktop\GrowtopiaBot-Modified-main\CPPBot\corefunc.h(1331,108): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tatown\Desktop\GrowtopiaBot-Modified-main\CPPBot\corefunc.h(1331,98): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tatown\Desktop\GrowtopiaBot-Modified-main\CPPBot\corefunc.h(1337,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\tatown\Desktop\GrowtopiaBot-Modified-main\CPPBot\corefunc.h(1338,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\tatown\Desktop\GrowtopiaBot-Modified-main\CPPBot\corefunc.h(1013,15): warning C4101: 'e': unreferenced local variable
+C:\Users\tatown\Desktop\GrowtopiaBot-Modified-main\CPPBot\corefunc.h(1351,1): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\tatown\Desktop\GrowtopiaBot-Modified-main\CPPBot\corefunc.h(1361,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tatown\Desktop\GrowtopiaBot-Modified-main\CPPBot\corefunc.h(1448,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\tatown\Desktop\GrowtopiaBot-Modified-main\CPPBot\userfunc.h(238,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\tatown\Desktop\GrowtopiaBot-Modified-main\CPPBot\userfunc.h(239,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\tatown\Desktop\GrowtopiaBot-Modified-main\CPPBot\userfunc.h(245,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\tatown\Desktop\GrowtopiaBot-Modified-main\CPPBot\userfunc.h(246,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\tatown\Desktop\GrowtopiaBot-Modified-main\CPPBot\userfunc.h(422,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tatown\Desktop\GrowtopiaBot-Modified-main\CPPBot\userfunc.h(423,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tatown\Desktop\GrowtopiaBot-Modified-main\CPPBot\CPPBot.cpp(51,5): warning C4834: discarding return value of function with 'nodiscard' attribute
+  CPPBot.vcxproj -> C:\Users\tatown\Desktop\GrowtopiaBot-Modified-main\x64\Debug\CPPBot.exe
