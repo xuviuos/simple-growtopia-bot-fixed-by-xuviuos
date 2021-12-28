@@ -1,5 +1,5 @@
 # GrowtopiaBot-Modified
-an modified version of DrOreo002's Project. with MultiBot and AutoMsg.
+an modified version of DrOreo002's Project. with MultiBot and AutoMsg fixed source by xuviuos
 
 # Usage
 It should be easy to build this, but apparently visual studio wouldn't allow you to. Because sometimes thing could go wrong
